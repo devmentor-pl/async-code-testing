@@ -1,0 +1,22 @@
+{
+  "name": "practice-js-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ./Document.test.js --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devmentor-pl/testowanie-kodu-asynchronicznego/issues"
+  },
+  "homepage": "https://devmentor.pl/b/testowanie-kodu-asynchronicznego",
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
+    "jest": "^26.3.0",
+    "jest-babel": "^1.0.1"
+  }
+}
